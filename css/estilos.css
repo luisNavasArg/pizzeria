@@ -9,4 +9,5 @@ body{
 img{
 	border-radius: 30px;
 	box-shadow: 5px 5px 5px black;
+	width: 200px;
 }
