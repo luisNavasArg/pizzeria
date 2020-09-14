@@ -1,0 +1,12 @@
+body{
+	font-family: monospace;
+	font-size: 20px;
+}
+.centrado{
+    color:blue;
+    text-align: center;
+}
+img{
+	border-radius: 30px;
+	box-shadow: 5px 5px 5px black;
+}
